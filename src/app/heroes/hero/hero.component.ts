@@ -1,4 +1,4 @@
-import { reset } from './../../../../node_modules/@colors/colors/index.d';
+
 import { Component } from '@angular/core';
 
 @Component({
